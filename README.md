@@ -1,1 +1,4 @@
-This belongs to bjx-awwarddd
+# tapple
+一个滚动监测的样式库
+
+灵感来源于苹果官网的丝滑动画
